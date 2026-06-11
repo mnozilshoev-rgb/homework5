@@ -884,7 +884,7 @@ height: 110px;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    color: white;
+    color: rgb(250, 250, 250);
     margin-top: 100px;
 }
 .divleft{
